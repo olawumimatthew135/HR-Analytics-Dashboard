@@ -3,7 +3,7 @@
 
 **Home**
 
-![Home Page](1_1.jpg)
+![Home Page](_1.jpg)
 
 **Action**
 
